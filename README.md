@@ -1,2 +1,15 @@
-# -network-to-cloud-sheets
-​🚀 A curated collection of visual cheat sheets, architecture diagrams, and quick-reference notes bridging the gap between classical networking (CCNA) and modern Cloud Infrastructure (Azure/DevOps).
+# 📂 Cloud Networking Blueprints & Cheat Sheets
+
+Welcome! This repository is a personal knowledge base designed to bridge the gap between **Traditional Infrastructure (CCNA)** and **Modern Software-Defined Networking (SDN) in Cloud Computing**.
+
+## 📌 Featured Cheat Sheet: Azure Networking vs. Cisco VLAN
+
+Here is a quick-reference guide on mapping Layer 2 VLAN logic into Azure's Layer 3 Subnets. 
+
+![Azure vs Cisco VLAN Cheat Sheet](watermarked_img_13682780643288736678.png)
+
+📄 **[Download the High-Quality PDF Version](./Azure-vs-Cisco-VLAN.pdf)**
+
+---
+*Created and maintained by a Cloud Engineer in the making.*
+.
